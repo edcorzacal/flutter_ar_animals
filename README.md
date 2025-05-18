@@ -1,16 +1,18 @@
-# ar_information_system
+# 🐾 flutter_ar_animals
 
-A new Flutter project.
+**flutter_ar_animals** is a Flutter application that uses Augmented Reality to showcase 3D animal models from A to Z. Built with [`ar_flutter_plugin_2`](https://pub.dev/packages/ar_flutter_plugin_2), this app offers an interactive and educational AR experience on supported Android and iOS devices.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🐘 3D animal models for each letter A–Z
+- 🌍 Augmented Reality using surface detection
+- 🎓 Fun and educational tool for kids and learners
+- 📱 Works on Android and iOS (ARCore / ARKit-compatible devices)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Clone the Repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/edcorzacal/flutter_ar_animals.git
+cd flutter_ar_animals
