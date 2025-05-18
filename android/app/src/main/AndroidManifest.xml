@@ -4,7 +4,7 @@
     <uses-feature android:name="android.hardware.camera.ar" android:required="true" />
 
     <application
-        android:label="ar_information_system"
+        android:label="Animapedia"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
